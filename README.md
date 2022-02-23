@@ -1,0 +1,2 @@
+# Regression-Models
+The data of 193 countries for 22 variables such as HIV, infant mortality,  Education, health index....has been taken to run multiple machine learning models in Python\ Jupiter Notebook such as  Lasso regression, Neural Networks, Support Vector Machine etc., to predict the Life Expectancy. Also evaluation metric for different models has been taken to analyze the performance of models. 
